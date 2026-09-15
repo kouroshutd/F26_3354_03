@@ -51,3 +51,15 @@ team03-se3354-campus-safety/
 │   └── data/
 ├── tests/
 └── meetings/
+
+```
+
+## Course
+
+**CE/CS/SE 3354 — Software Engineering**  
+University of Texas at Dallas  
+Fall 2026
+
+---
+
+This repository is maintained for an academic team project.
