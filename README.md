@@ -1,6 +1,5 @@
+# **Team 03 - CE/CS/SE 3354 Software Engineering - Fall 2026**
 # Campus Safety Incident & Emergency Accountability System
-
-**Team 03 — CE/CS/SE 3354 Software Engineering — Fall 2026**
 
 ## Project Overview
 
@@ -29,10 +28,14 @@ Additional project artifacts will be added to this repository as they are review
 ## Repository Structure
 
 ```text
-team03-se3354-campus-safety/
+F26_3354_03/
 ├── docs/
 │   └── charter/
+│       └── Project Scope.pdf
 │       └── Team_03_SE3354_F26_ProjectProposal.pdf
+│   └── deliverable-1/
+│   └── deliverable-2/
+│   └── reference/
 ├── diagrams/
 │   ├── use-cases/
 │   ├── state-machines/
