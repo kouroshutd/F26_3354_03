@@ -1,5 +1,5 @@
 # **Team 03 - CE/CS/SE 3354 Software Engineering - Fall 2026**
-# Team Name: Team 3
+# Team Name: SafeGuard 
 # Campus Safety Incident & Emergency Accountability System
 
 ## Project Overview
