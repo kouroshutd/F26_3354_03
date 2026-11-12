@@ -67,3 +67,13 @@ Fall 2026
 ---
 
 This repository is maintained for an academic team project.
+
+## Deliverable 2: SafeWalkSession unit and JUnit tests
+Code: `prototype/safe-walk/` (unit: `SafeWalkSession`, tests: `SafeWalkSessionTest`, 12 JUnit 5 tests)
+
+1. Install dependencies: Java JDK 17+ and Apache Maven 3.8+ (macOS: `brew install openjdk@17 maven`). JUnit 5 is downloaded by Maven.
+2. Environment variables: none required. If Maven cannot find Java, set `JAVA_HOME` to your JDK folder.
+3. Run locally:
+   cd prototype/safe-walk
+   mvn test
+   Expected: Tests run: 12, Failures: 0, Errors: 0, Skipped: 0 and BUILD SUCCESS.
